@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1F242D;
+}
+.word{
+    display: flex;
+    gap: 20px;
+    color: white;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 30px;
+}
+.h3{
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 32px;
+    color: white;
+    margin-top: 20px;
+}
+.h1{
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 56px;
+    color: white;
+    margin-top: 20px;
+}
+.h3b{
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 32px;
+    color: white;
+    margin-top: 20px;
+}
+.p{
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: Regular;
+    font-size: 16px;
+    width: 636.24px;
+    color: white;
+    margin-top: 30px;
+}
+.img{
+    display: flex;
+    text-align: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+.but{
+    background-color: #00EEFF; 
+    width: 176px;
+    height: 45px;
+    border-radius: 40px;
+    margin-top: 20px;
+    border: none;
+}
+.mega{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.our{
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 45px;
+    color: #00EEFF ;
+    margin-top: 50px;
+}
+.images{
+    display: flex;
+    margin-top: 60px;
+    justify-content: space-evenly;
+}
+.section{
+    text-align: center;
+    margin-top: 237px;
+    margin-left: 230px;
+}
+.sec{
+    margin-left: 260px;
+}
